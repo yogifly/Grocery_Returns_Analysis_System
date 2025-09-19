@@ -1,0 +1,1173 @@
+return_id,order_id,return_date,return_reason,return_reason_category,refund_amount
+RET_000001,ORD_000004,2023-12-27,Found mold on the product,stale,483
+RET_000002,ORD_000015,2023-05-20,Received after expected date,late_delivery,448
+RET_000003,ORD_000017,2023-05-13,Items looked old,quality_issues,331
+RET_000004,ORD_000020,2023-05-02,Packaging was damaged,damaged,86
+RET_000005,ORD_000037,2023-04-02,Items were rotten,stale,270
+RET_000006,ORD_000038,2023-03-15,Items were rotten,stale,171
+RET_000007,ORD_000046,2023-03-15,Spoiled items received,stale,396
+RET_000008,ORD_000049,2024-02-17,Different product than ordered,wrong_item,208
+RET_000009,ORD_000050,2023-05-01,Bruised fruits,damaged,417
+RET_000010,ORD_000054,2023-08-24,Not fresh,quality_issues,189
+RET_000011,ORD_000055,2023-06-27,Spoiled items received,stale,219
+RET_000012,ORD_000056,2023-10-12,Delayed delivery,late_delivery,294
+RET_000013,ORD_000062,2023-09-03,Wrong product delivered,wrong_item,479
+RET_000014,ORD_000075,2023-08-26,Items were rotten,stale,160
+RET_000015,ORD_000076,2024-01-17,Items were rotten,stale,190
+RET_000016,ORD_000079,2023-07-29,Product was stale,stale,335
+RET_000017,ORD_000081,2023-11-20,Product was stale,stale,130
+RET_000018,ORD_000085,2023-09-01,Products were crushed,damaged,426
+RET_000019,ORD_000087,2024-02-06,Products were crushed,damaged,96
+RET_000020,ORD_000089,2023-09-17,Product was stale,stale,386
+RET_000021,ORD_000091,2023-08-21,Bruised fruits,damaged,413
+RET_000022,ORD_000111,2024-01-16,Found mold on the product,stale,321
+RET_000023,ORD_000113,2023-02-10,Spoiled items received,stale,238
+RET_000024,ORD_000114,2023-12-20,Items were rotten,stale,381
+RET_000025,ORD_000118,2023-05-31,Packaging was damaged,damaged,328
+RET_000026,ORD_000119,2023-12-03,Poor quality,quality_issues,75
+RET_000027,ORD_000131,2023-11-03,Found mold on the product,stale,230
+RET_000028,ORD_000146,2023-02-15,Bruised fruits,damaged,138
+RET_000029,ORD_000149,2024-02-19,Items were damaged,damaged,380
+RET_000030,ORD_000150,2023-02-24,Spoiled items received,stale,306
+RET_000031,ORD_000158,2023-10-10,Products were crushed,damaged,72
+RET_000032,ORD_000162,2023-03-01,Product was stale,stale,163
+RET_000033,ORD_000164,2023-02-16,Spoiled items received,stale,406
+RET_000034,ORD_000166,2023-10-16,Inadequate packaging,packaging_issues,82
+RET_000035,ORD_000174,2024-01-27,Delayed delivery,late_delivery,254
+RET_000036,ORD_000179,2023-07-31,Different product than ordered,wrong_item,237
+RET_000037,ORD_000180,2023-07-10,Found mold on the product,stale,253
+RET_000038,ORD_000190,2023-09-28,Product was stale,stale,307
+RET_000039,ORD_000191,2023-12-02,Quality below expectations,quality_issues,383
+RET_000040,ORD_000198,2023-09-16,Products were crushed,damaged,355
+RET_000041,ORD_000201,2023-05-30,Spoiled items received,stale,241
+RET_000042,ORD_000202,2024-02-14,Bruised fruits,damaged,415
+RET_000043,ORD_000203,2023-06-27,Found mold on the product,stale,309
+RET_000044,ORD_000204,2024-03-10,Packaging leaked,packaging_issues,207
+RET_000045,ORD_000210,2023-12-21,Found mold on the product,stale,410
+RET_000046,ORD_000211,2023-04-27,Items looked old,quality_issues,469
+RET_000047,ORD_000213,2024-01-25,Items were rotten,stale,174
+RET_000048,ORD_000217,2024-01-13,Packaging was damaged,damaged,498
+RET_000049,ORD_000222,2023-09-07,Packaging was damaged,damaged,348
+RET_000050,ORD_000223,2024-01-14,Items were rotten,stale,257
+RET_000051,ORD_000227,2023-03-02,Received after expected date,late_delivery,348
+RET_000052,ORD_000230,2023-02-12,Not fresh,quality_issues,443
+RET_000053,ORD_000231,2023-03-19,Poor packaging,packaging_issues,384
+RET_000054,ORD_000232,2023-07-02,Incorrect item,wrong_item,394
+RET_000055,ORD_000233,2024-01-08,Items were damaged,damaged,464
+RET_000056,ORD_000237,2023-12-14,Packaging leaked,packaging_issues,352
+RET_000057,ORD_000239,2023-08-06,Found mold on the product,stale,489
+RET_000058,ORD_000243,2023-04-28,Items were rotten,stale,406
+RET_000059,ORD_000245,2023-12-09,Found mold on the product,stale,154
+RET_000060,ORD_000253,2023-01-17,Found mold on the product,stale,467
+RET_000061,ORD_000257,2023-02-23,Found mold on the product,stale,328
+RET_000062,ORD_000258,2023-10-26,Product was stale,stale,203
+RET_000063,ORD_000261,2023-11-19,Incorrect item,wrong_item,271
+RET_000064,ORD_000262,2023-04-13,Items were rotten,stale,428
+RET_000065,ORD_000265,2023-02-27,Spoiled items received,stale,448
+RET_000066,ORD_000266,2023-02-18,Items were damaged,damaged,135
+RET_000067,ORD_000271,2023-12-29,Items were rotten,stale,399
+RET_000068,ORD_000272,2024-02-08,Different product than ordered,wrong_item,305
+RET_000069,ORD_000273,2023-03-24,Spoiled items received,stale,323
+RET_000070,ORD_000276,2023-12-21,Received after expected date,late_delivery,347
+RET_000071,ORD_000280,2023-09-08,Poor quality,quality_issues,396
+RET_000072,ORD_000281,2024-02-19,Items were rotten,stale,145
+RET_000073,ORD_000283,2023-07-25,Items were rotten,stale,237
+RET_000074,ORD_000285,2023-06-16,Different product than ordered,wrong_item,352
+RET_000075,ORD_000290,2023-09-17,Quality below expectations,quality_issues,66
+RET_000076,ORD_000301,2023-06-29,Poor quality,quality_issues,113
+RET_000077,ORD_000311,2023-11-14,Quality below expectations,quality_issues,380
+RET_000078,ORD_000318,2023-08-15,Product was stale,stale,133
+RET_000079,ORD_000322,2023-05-15,Spoiled items received,stale,126
+RET_000080,ORD_000332,2023-07-29,Product was stale,stale,129
+RET_000081,ORD_000342,2023-08-23,Incorrect item,wrong_item,120
+RET_000082,ORD_000350,2024-02-23,Items were damaged,damaged,241
+RET_000083,ORD_000353,2023-11-14,Spoiled items received,stale,485
+RET_000084,ORD_000361,2023-11-19,Items were rotten,stale,147
+RET_000085,ORD_000371,2023-03-08,Product was stale,stale,248
+RET_000086,ORD_000377,2023-01-21,Found mold on the product,stale,187
+RET_000087,ORD_000379,2023-09-25,Not fresh,quality_issues,148
+RET_000088,ORD_000380,2023-04-17,Products were crushed,damaged,308
+RET_000089,ORD_000381,2023-08-02,Incorrect item,wrong_item,350
+RET_000090,ORD_000382,2023-10-13,Bruised fruits,damaged,487
+RET_000091,ORD_000383,2023-10-22,Spoiled items received,stale,117
+RET_000092,ORD_000389,2024-02-22,Items looked old,quality_issues,248
+RET_000093,ORD_000396,2024-01-07,Quality below expectations,quality_issues,157
+RET_000094,ORD_000400,2023-06-29,Packaging was damaged,damaged,198
+RET_000095,ORD_000402,2023-03-31,Poor quality,quality_issues,237
+RET_000096,ORD_000408,2023-08-01,Items were damaged,damaged,106
+RET_000097,ORD_000414,2023-12-27,Products were crushed,damaged,460
+RET_000098,ORD_000431,2023-03-13,Packaging was damaged,damaged,401
+RET_000099,ORD_000438,2023-08-18,Product was stale,stale,243
+RET_000100,ORD_000441,2024-02-17,Items were rotten,stale,262
+RET_000101,ORD_000443,2023-07-11,Items were rotten,stale,70
+RET_000102,ORD_000447,2023-02-25,Bruised fruits,damaged,456
+RET_000103,ORD_000450,2023-11-04,Spoiled items received,stale,245
+RET_000104,ORD_000454,2023-02-17,Packaging was damaged,damaged,149
+RET_000105,ORD_000455,2023-03-09,Inadequate packaging,packaging_issues,232
+RET_000106,ORD_000457,2023-06-25,Items were rotten,stale,414
+RET_000107,ORD_000463,2023-09-25,Bruised fruits,damaged,278
+RET_000108,ORD_000464,2023-03-27,Not fresh,quality_issues,71
+RET_000109,ORD_000469,2023-04-23,Product was stale,stale,296
+RET_000110,ORD_000470,2023-12-17,Items were rotten,stale,118
+RET_000111,ORD_000473,2023-04-02,Spoiled items received,stale,355
+RET_000112,ORD_000475,2023-09-24,Product was stale,stale,97
+RET_000113,ORD_000482,2023-07-14,Packaging leaked,packaging_issues,167
+RET_000114,ORD_000485,2023-11-10,Incorrect item,wrong_item,364
+RET_000115,ORD_000486,2023-12-10,Bruised fruits,damaged,67
+RET_000116,ORD_000487,2024-02-12,Incorrect item,wrong_item,230
+RET_000117,ORD_000497,2023-11-20,Wrong product delivered,wrong_item,484
+RET_000118,ORD_000501,2023-01-13,Items were rotten,stale,187
+RET_000119,ORD_000504,2024-02-23,Wrong product delivered,wrong_item,265
+RET_000120,ORD_000512,2023-08-27,Items were damaged,damaged,157
+RET_000121,ORD_000514,2023-10-03,Incorrect item,wrong_item,276
+RET_000122,ORD_000521,2023-04-02,Different product than ordered,wrong_item,400
+RET_000123,ORD_000522,2023-05-30,Spoiled items received,stale,189
+RET_000124,ORD_000523,2023-12-30,Found mold on the product,stale,187
+RET_000125,ORD_000524,2023-03-16,Found mold on the product,stale,452
+RET_000126,ORD_000526,2023-07-25,Products were crushed,damaged,444
+RET_000127,ORD_000530,2023-03-02,Wrong product delivered,wrong_item,71
+RET_000128,ORD_000531,2023-11-03,Different product than ordered,wrong_item,80
+RET_000129,ORD_000533,2024-01-26,Spoiled items received,stale,411
+RET_000130,ORD_000538,2023-11-14,Bruised fruits,damaged,497
+RET_000131,ORD_000544,2023-11-20,Products were crushed,damaged,308
+RET_000132,ORD_000546,2023-11-27,Spoiled items received,stale,253
+RET_000133,ORD_000555,2023-10-26,Spoiled items received,stale,342
+RET_000134,ORD_000560,2023-12-04,Items were rotten,stale,152
+RET_000135,ORD_000572,2023-08-09,Poor packaging,packaging_issues,347
+RET_000136,ORD_000577,2023-11-21,Items were rotten,stale,307
+RET_000137,ORD_000580,2023-04-10,Packaging was damaged,damaged,251
+RET_000138,ORD_000586,2023-08-30,Quality below expectations,quality_issues,93
+RET_000139,ORD_000587,2023-10-02,Items were rotten,stale,133
+RET_000140,ORD_000591,2023-02-16,Delivery was late,late_delivery,384
+RET_000141,ORD_000592,2023-07-01,Delivery was late,late_delivery,394
+RET_000142,ORD_000597,2023-11-21,Items were rotten,stale,50
+RET_000143,ORD_000599,2023-10-22,Packaging was damaged,damaged,442
+RET_000144,ORD_000601,2023-04-16,Found mold on the product,stale,286
+RET_000145,ORD_000604,2023-04-02,Product was stale,stale,304
+RET_000146,ORD_000608,2023-04-20,Product was stale,stale,220
+RET_000147,ORD_000610,2023-06-17,Bruised fruits,damaged,190
+RET_000148,ORD_000617,2023-07-25,Products were crushed,damaged,483
+RET_000149,ORD_000619,2023-02-16,Spoiled items received,stale,83
+RET_000150,ORD_000627,2023-11-21,Items were rotten,stale,334
+RET_000151,ORD_000628,2023-07-19,Poor packaging,packaging_issues,419
+RET_000152,ORD_000633,2023-12-25,Product was stale,stale,400
+RET_000153,ORD_000638,2023-05-30,Items were rotten,stale,387
+RET_000154,ORD_000647,2023-04-30,Items were damaged,damaged,412
+RET_000155,ORD_000648,2023-03-10,Delivery was late,late_delivery,377
+RET_000156,ORD_000658,2023-06-07,Items were rotten,stale,62
+RET_000157,ORD_000660,2023-10-11,Not fresh,quality_issues,429
+RET_000158,ORD_000663,2023-02-23,Items looked old,quality_issues,222
+RET_000159,ORD_000666,2023-04-06,Spoiled items received,stale,448
+RET_000160,ORD_000673,2023-05-28,Not fresh,quality_issues,130
+RET_000161,ORD_000676,2023-04-20,Spoiled items received,stale,141
+RET_000162,ORD_000683,2023-07-29,Products were crushed,damaged,161
+RET_000163,ORD_000686,2023-07-19,Packaging was damaged,damaged,407
+RET_000164,ORD_000693,2023-08-25,Bruised fruits,damaged,304
+RET_000165,ORD_000711,2023-11-09,Spoiled items received,stale,95
+RET_000166,ORD_000715,2023-11-27,Incorrect item,wrong_item,84
+RET_000167,ORD_000719,2023-07-06,Found mold on the product,stale,496
+RET_000168,ORD_000724,2023-06-29,Items were rotten,stale,116
+RET_000169,ORD_000727,2024-01-30,Found mold on the product,stale,346
+RET_000170,ORD_000728,2023-07-02,Bruised fruits,damaged,194
+RET_000171,ORD_000740,2023-04-09,Items looked old,quality_issues,455
+RET_000172,ORD_000743,2023-08-24,Items were rotten,stale,209
+RET_000173,ORD_000765,2023-06-24,Products were crushed,damaged,259
+RET_000174,ORD_000767,2023-09-09,Product was stale,stale,480
+RET_000175,ORD_000774,2023-11-29,Bruised fruits,damaged,314
+RET_000176,ORD_000775,2024-01-09,Found mold on the product,stale,459
+RET_000177,ORD_000778,2023-08-18,Items looked old,quality_issues,473
+RET_000178,ORD_000780,2023-07-18,Product was stale,stale,198
+RET_000179,ORD_000781,2023-05-19,Inadequate packaging,packaging_issues,404
+RET_000180,ORD_000782,2023-07-27,Product was stale,stale,220
+RET_000181,ORD_000788,2023-10-20,Items were rotten,stale,411
+RET_000182,ORD_000800,2023-08-16,Spoiled items received,stale,319
+RET_000183,ORD_000801,2023-11-24,Packaging leaked,packaging_issues,203
+RET_000184,ORD_000802,2023-05-15,Incorrect item,wrong_item,98
+RET_000185,ORD_000803,2023-09-06,Items were rotten,stale,452
+RET_000186,ORD_000806,2023-11-12,Items looked old,quality_issues,404
+RET_000187,ORD_000807,2023-08-02,Wrong product delivered,wrong_item,147
+RET_000188,ORD_000808,2023-03-05,Bruised fruits,damaged,94
+RET_000189,ORD_000813,2023-12-20,Products were crushed,damaged,109
+RET_000190,ORD_000816,2024-01-10,Spoiled items received,stale,116
+RET_000191,ORD_000817,2023-04-05,Product was stale,stale,59
+RET_000192,ORD_000819,2023-11-19,Incorrect item,wrong_item,127
+RET_000193,ORD_000821,2023-11-15,Packaging leaked,packaging_issues,276
+RET_000194,ORD_000822,2024-02-02,Products were crushed,damaged,262
+RET_000195,ORD_000828,2023-06-20,Found mold on the product,stale,465
+RET_000196,ORD_000832,2023-06-09,Spoiled items received,stale,202
+RET_000197,ORD_000834,2023-11-25,Not fresh,quality_issues,103
+RET_000198,ORD_000835,2023-06-21,Incorrect item,wrong_item,116
+RET_000199,ORD_000841,2023-03-11,Wrong product delivered,wrong_item,206
+RET_000200,ORD_000847,2024-01-05,Not fresh,quality_issues,434
+RET_000201,ORD_000851,2023-06-02,Packaging was damaged,damaged,142
+RET_000202,ORD_000853,2023-05-20,Spoiled items received,stale,108
+RET_000203,ORD_000855,2023-01-18,Items were rotten,stale,450
+RET_000204,ORD_000858,2023-12-18,Incorrect item,wrong_item,407
+RET_000205,ORD_000862,2023-08-11,Items were damaged,damaged,230
+RET_000206,ORD_000864,2023-04-16,Items were rotten,stale,169
+RET_000207,ORD_000865,2023-09-19,Product was stale,stale,495
+RET_000208,ORD_000871,2023-01-09,Poor quality,quality_issues,177
+RET_000209,ORD_000874,2024-02-28,Product was stale,stale,243
+RET_000210,ORD_000878,2023-06-28,Items were rotten,stale,343
+RET_000211,ORD_000886,2023-05-08,Items were damaged,damaged,334
+RET_000212,ORD_000891,2023-12-10,Quality below expectations,quality_issues,212
+RET_000213,ORD_000892,2023-11-08,Not fresh,quality_issues,485
+RET_000214,ORD_000893,2023-09-28,Found mold on the product,stale,305
+RET_000215,ORD_000900,2023-09-19,Quality below expectations,quality_issues,150
+RET_000216,ORD_000908,2023-06-23,Found mold on the product,stale,341
+RET_000217,ORD_000909,2023-08-31,Product was stale,stale,145
+RET_000218,ORD_000911,2023-07-18,Items looked old,quality_issues,430
+RET_000219,ORD_000913,2023-06-15,Bruised fruits,damaged,319
+RET_000220,ORD_000918,2023-02-11,Wrong product delivered,wrong_item,377
+RET_000221,ORD_000919,2023-12-30,Poor quality,quality_issues,413
+RET_000222,ORD_000921,2023-08-19,Items were damaged,damaged,323
+RET_000223,ORD_000925,2024-01-30,Found mold on the product,stale,470
+RET_000224,ORD_000927,2023-02-28,Found mold on the product,stale,215
+RET_000225,ORD_000928,2023-04-03,Found mold on the product,stale,72
+RET_000226,ORD_000929,2023-02-06,Found mold on the product,stale,373
+RET_000227,ORD_000931,2023-06-24,Delayed delivery,late_delivery,171
+RET_000228,ORD_000932,2024-01-19,Items were rotten,stale,378
+RET_000229,ORD_000934,2023-08-05,Different product than ordered,wrong_item,177
+RET_000230,ORD_000938,2023-05-12,Items were damaged,damaged,234
+RET_000231,ORD_000953,2023-09-23,Items looked old,quality_issues,370
+RET_000232,ORD_000954,2023-11-18,Bruised fruits,damaged,294
+RET_000233,ORD_000958,2023-07-11,Bruised fruits,damaged,63
+RET_000234,ORD_000963,2024-01-13,Items were damaged,damaged,296
+RET_000235,ORD_000971,2023-03-12,Items were rotten,stale,305
+RET_000236,ORD_000972,2023-12-22,Poor quality,quality_issues,190
+RET_000237,ORD_000976,2023-07-27,Product was stale,stale,485
+RET_000238,ORD_000980,2023-03-07,Spoiled items received,stale,300
+RET_000239,ORD_000986,2023-10-01,Products were crushed,damaged,459
+RET_000240,ORD_000995,2023-12-11,Items were rotten,stale,89
+RET_000241,ORD_001000,2024-01-20,Poor packaging,packaging_issues,243
+RET_000242,ORD_001004,2023-02-16,Delivery was late,late_delivery,267
+RET_000243,ORD_001005,2023-12-17,Packaging leaked,packaging_issues,147
+RET_000244,ORD_001007,2023-11-10,Spoiled items received,stale,303
+RET_000245,ORD_001011,2023-06-08,Spoiled items received,stale,151
+RET_000246,ORD_001017,2023-12-20,Poor packaging,packaging_issues,114
+RET_000247,ORD_001020,2023-11-18,Bruised fruits,damaged,292
+RET_000248,ORD_001021,2023-12-31,Delivery was late,late_delivery,268
+RET_000249,ORD_001023,2023-05-01,Delayed delivery,late_delivery,236
+RET_000250,ORD_001024,2023-05-29,Wrong product delivered,wrong_item,196
+RET_000251,ORD_001028,2023-03-16,Found mold on the product,stale,204
+RET_000252,ORD_001030,2024-01-31,Product was stale,stale,135
+RET_000253,ORD_001034,2024-02-16,Wrong product delivered,wrong_item,323
+RET_000254,ORD_001036,2024-03-04,Found mold on the product,stale,419
+RET_000255,ORD_001040,2024-01-27,Product was stale,stale,303
+RET_000256,ORD_001041,2023-04-08,Bruised fruits,damaged,140
+RET_000257,ORD_001053,2023-03-25,Packaging leaked,packaging_issues,192
+RET_000258,ORD_001061,2023-09-10,Items looked old,quality_issues,126
+RET_000259,ORD_001074,2023-01-24,Bruised fruits,damaged,443
+RET_000260,ORD_001077,2023-09-19,Items were rotten,stale,201
+RET_000261,ORD_001079,2023-05-20,Products were crushed,damaged,259
+RET_000262,ORD_001088,2024-01-31,Delivery was late,late_delivery,202
+RET_000263,ORD_001091,2023-12-25,Items were rotten,stale,215
+RET_000264,ORD_001094,2023-11-01,Bruised fruits,damaged,228
+RET_000265,ORD_001099,2024-02-22,Different product than ordered,wrong_item,347
+RET_000266,ORD_001105,2023-10-27,Poor quality,quality_issues,413
+RET_000267,ORD_001106,2024-02-17,Items looked old,quality_issues,55
+RET_000268,ORD_001108,2023-08-26,Items looked old,quality_issues,444
+RET_000269,ORD_001110,2023-03-03,Found mold on the product,stale,479
+RET_000270,ORD_001111,2023-04-25,Spoiled items received,stale,242
+RET_000271,ORD_001113,2023-11-13,Different product than ordered,wrong_item,180
+RET_000272,ORD_001115,2023-01-20,Wrong product delivered,wrong_item,228
+RET_000273,ORD_001119,2023-11-10,Different product than ordered,wrong_item,179
+RET_000274,ORD_001123,2023-10-21,Packaging leaked,packaging_issues,88
+RET_000275,ORD_001130,2023-03-09,Products were crushed,damaged,165
+RET_000276,ORD_001140,2023-10-30,Bruised fruits,damaged,186
+RET_000277,ORD_001142,2023-04-24,Items looked old,quality_issues,149
+RET_000278,ORD_001144,2023-12-17,Items were damaged,damaged,191
+RET_000279,ORD_001145,2023-05-01,Quality below expectations,quality_issues,376
+RET_000280,ORD_001147,2023-12-21,Items looked old,quality_issues,269
+RET_000281,ORD_001163,2023-02-26,Incorrect item,wrong_item,119
+RET_000282,ORD_001166,2024-01-03,Spoiled items received,stale,95
+RET_000283,ORD_001172,2023-04-16,Product was stale,stale,292
+RET_000284,ORD_001174,2024-02-29,Items were rotten,stale,311
+RET_000285,ORD_001176,2023-12-14,Items were damaged,damaged,338
+RET_000286,ORD_001184,2023-04-04,Spoiled items received,stale,440
+RET_000287,ORD_001185,2023-07-18,Bruised fruits,damaged,179
+RET_000288,ORD_001188,2023-08-02,Products were crushed,damaged,306
+RET_000289,ORD_001198,2023-07-24,Items were rotten,stale,109
+RET_000290,ORD_001200,2023-11-01,Products were crushed,damaged,142
+RET_000291,ORD_001208,2023-07-23,Product was stale,stale,327
+RET_000292,ORD_001213,2023-11-19,Found mold on the product,stale,478
+RET_000293,ORD_001218,2023-08-20,Different product than ordered,wrong_item,417
+RET_000294,ORD_001220,2023-05-06,Found mold on the product,stale,221
+RET_000295,ORD_001221,2023-08-02,Product was stale,stale,104
+RET_000296,ORD_001236,2023-10-21,Products were crushed,damaged,315
+RET_000297,ORD_001246,2023-05-19,Not fresh,quality_issues,51
+RET_000298,ORD_001250,2024-01-27,Product was stale,stale,227
+RET_000299,ORD_001254,2023-01-28,Packaging was damaged,damaged,116
+RET_000300,ORD_001260,2024-02-29,Product was stale,stale,426
+RET_000301,ORD_001267,2023-10-26,Product was stale,stale,187
+RET_000302,ORD_001274,2023-03-13,Packaging was damaged,damaged,409
+RET_000303,ORD_001279,2023-11-06,Bruised fruits,damaged,134
+RET_000304,ORD_001282,2023-06-16,Products were crushed,damaged,300
+RET_000305,ORD_001286,2023-05-18,Quality below expectations,quality_issues,370
+RET_000306,ORD_001289,2023-03-15,Delayed delivery,late_delivery,486
+RET_000307,ORD_001292,2023-02-14,Packaging was damaged,damaged,190
+RET_000308,ORD_001307,2023-09-20,Found mold on the product,stale,355
+RET_000309,ORD_001308,2023-12-29,Quality below expectations,quality_issues,284
+RET_000310,ORD_001309,2023-07-26,Items were rotten,stale,489
+RET_000311,ORD_001313,2024-01-16,Bruised fruits,damaged,443
+RET_000312,ORD_001320,2023-03-07,Spoiled items received,stale,322
+RET_000313,ORD_001327,2023-12-23,Spoiled items received,stale,312
+RET_000314,ORD_001331,2024-02-08,Delivery was late,late_delivery,450
+RET_000315,ORD_001332,2023-08-05,Different product than ordered,wrong_item,216
+RET_000316,ORD_001343,2023-12-05,Not fresh,quality_issues,362
+RET_000317,ORD_001346,2023-04-12,Items were damaged,damaged,155
+RET_000318,ORD_001351,2024-01-11,Product was stale,stale,419
+RET_000319,ORD_001352,2023-04-02,Product was stale,stale,284
+RET_000320,ORD_001354,2024-01-02,Found mold on the product,stale,415
+RET_000321,ORD_001362,2024-02-11,Items were damaged,damaged,188
+RET_000322,ORD_001365,2023-02-24,Items looked old,quality_issues,287
+RET_000323,ORD_001366,2023-02-27,Poor quality,quality_issues,327
+RET_000324,ORD_001372,2023-08-22,Spoiled items received,stale,102
+RET_000325,ORD_001379,2023-10-21,Received after expected date,late_delivery,353
+RET_000326,ORD_001380,2023-08-31,Quality below expectations,quality_issues,191
+RET_000327,ORD_001387,2023-06-22,Bruised fruits,damaged,458
+RET_000328,ORD_001392,2023-06-23,Bruised fruits,damaged,207
+RET_000329,ORD_001396,2024-01-23,Items were damaged,damaged,97
+RET_000330,ORD_001401,2023-02-18,Items were rotten,stale,339
+RET_000331,ORD_001405,2023-11-22,Spoiled items received,stale,73
+RET_000332,ORD_001409,2023-12-17,Not fresh,quality_issues,462
+RET_000333,ORD_001413,2023-01-23,Items were rotten,stale,253
+RET_000334,ORD_001417,2023-02-07,Items were rotten,stale,497
+RET_000335,ORD_001420,2023-10-03,Items were rotten,stale,481
+RET_000336,ORD_001422,2023-10-02,Items were rotten,stale,425
+RET_000337,ORD_001425,2023-02-15,Wrong product delivered,wrong_item,394
+RET_000338,ORD_001431,2024-01-11,Items looked old,quality_issues,174
+RET_000339,ORD_001433,2023-10-21,Packaging was damaged,damaged,347
+RET_000340,ORD_001442,2023-09-27,Found mold on the product,stale,124
+RET_000341,ORD_001445,2023-01-18,Items were damaged,damaged,489
+RET_000342,ORD_001453,2023-03-17,Products were crushed,damaged,123
+RET_000343,ORD_001454,2024-02-01,Product was stale,stale,321
+RET_000344,ORD_001455,2023-08-07,Items were damaged,damaged,219
+RET_000345,ORD_001457,2023-04-10,Spoiled items received,stale,152
+RET_000346,ORD_001459,2023-02-11,Packaging was damaged,damaged,64
+RET_000347,ORD_001460,2024-02-19,Packaging was damaged,damaged,99
+RET_000348,ORD_001461,2023-12-21,Product was stale,stale,368
+RET_000349,ORD_001464,2023-03-08,Product was stale,stale,233
+RET_000350,ORD_001469,2023-04-13,Products were crushed,damaged,146
+RET_000351,ORD_001470,2023-07-06,Bruised fruits,damaged,414
+RET_000352,ORD_001471,2023-06-18,Wrong product delivered,wrong_item,402
+RET_000353,ORD_001476,2023-08-22,Not fresh,quality_issues,428
+RET_000354,ORD_001477,2023-05-16,Spoiled items received,stale,471
+RET_000355,ORD_001478,2023-04-19,Product was stale,stale,476
+RET_000356,ORD_001480,2023-08-21,Packaging was damaged,damaged,490
+RET_000357,ORD_001481,2023-05-13,Product was stale,stale,165
+RET_000358,ORD_001483,2023-11-10,Products were crushed,damaged,315
+RET_000359,ORD_001484,2023-10-06,Poor packaging,packaging_issues,338
+RET_000360,ORD_001487,2023-05-14,Products were crushed,damaged,181
+RET_000361,ORD_001495,2023-04-07,Items were rotten,stale,440
+RET_000362,ORD_001498,2023-06-17,Bruised fruits,damaged,133
+RET_000363,ORD_001500,2023-03-20,Packaging was damaged,damaged,275
+RET_000364,ORD_001502,2023-02-22,Bruised fruits,damaged,374
+RET_000365,ORD_001509,2024-01-09,Packaging leaked,packaging_issues,108
+RET_000366,ORD_001511,2023-05-08,Spoiled items received,stale,373
+RET_000367,ORD_001514,2023-07-23,Received after expected date,late_delivery,396
+RET_000368,ORD_001515,2023-11-05,Packaging leaked,packaging_issues,113
+RET_000369,ORD_001517,2023-06-05,Found mold on the product,stale,194
+RET_000370,ORD_001525,2023-05-23,Spoiled items received,stale,360
+RET_000371,ORD_001528,2023-01-11,Found mold on the product,stale,224
+RET_000372,ORD_001542,2023-11-13,Items were rotten,stale,127
+RET_000373,ORD_001543,2023-02-28,Product was stale,stale,302
+RET_000374,ORD_001545,2023-08-26,Not fresh,quality_issues,295
+RET_000375,ORD_001546,2023-01-27,Product was stale,stale,311
+RET_000376,ORD_001549,2024-03-04,Spoiled items received,stale,131
+RET_000377,ORD_001550,2023-04-22,Incorrect item,wrong_item,64
+RET_000378,ORD_001553,2023-10-24,Found mold on the product,stale,284
+RET_000379,ORD_001556,2023-06-11,Different product than ordered,wrong_item,498
+RET_000380,ORD_001558,2023-05-19,Spoiled items received,stale,495
+RET_000381,ORD_001577,2023-09-06,Product was stale,stale,293
+RET_000382,ORD_001580,2023-02-24,Items looked old,quality_issues,460
+RET_000383,ORD_001583,2023-09-15,Bruised fruits,damaged,415
+RET_000384,ORD_001584,2023-08-23,Incorrect item,wrong_item,456
+RET_000385,ORD_001587,2023-05-12,Quality below expectations,quality_issues,335
+RET_000386,ORD_001604,2023-06-06,Different product than ordered,wrong_item,188
+RET_000387,ORD_001608,2023-11-03,Product was stale,stale,483
+RET_000388,ORD_001609,2023-02-13,Product was stale,stale,55
+RET_000389,ORD_001615,2023-07-23,Items looked old,quality_issues,61
+RET_000390,ORD_001618,2023-12-24,Incorrect item,wrong_item,168
+RET_000391,ORD_001623,2023-03-27,Delayed delivery,late_delivery,192
+RET_000392,ORD_001625,2023-10-26,Items were damaged,damaged,84
+RET_000393,ORD_001629,2023-05-09,Items were rotten,stale,377
+RET_000394,ORD_001635,2023-12-05,Items looked old,quality_issues,414
+RET_000395,ORD_001639,2023-04-17,Items were rotten,stale,372
+RET_000396,ORD_001643,2023-05-19,Inadequate packaging,packaging_issues,56
+RET_000397,ORD_001644,2023-03-13,Wrong product delivered,wrong_item,83
+RET_000398,ORD_001649,2023-06-07,Bruised fruits,damaged,287
+RET_000399,ORD_001650,2023-03-23,Items looked old,quality_issues,389
+RET_000400,ORD_001653,2023-08-01,Items looked old,quality_issues,486
+RET_000401,ORD_001655,2024-02-17,Found mold on the product,stale,391
+RET_000402,ORD_001656,2023-10-22,Packaging leaked,packaging_issues,50
+RET_000403,ORD_001679,2023-12-15,Packaging was damaged,damaged,327
+RET_000404,ORD_001680,2023-12-31,Incorrect item,wrong_item,141
+RET_000405,ORD_001690,2023-01-21,Product was stale,stale,203
+RET_000406,ORD_001696,2023-08-09,Wrong product delivered,wrong_item,290
+RET_000407,ORD_001697,2024-02-23,Items were rotten,stale,382
+RET_000408,ORD_001702,2023-05-31,Spoiled items received,stale,352
+RET_000409,ORD_001709,2023-03-29,Poor packaging,packaging_issues,268
+RET_000410,ORD_001711,2023-05-26,Spoiled items received,stale,246
+RET_000411,ORD_001729,2024-01-28,Items were rotten,stale,400
+RET_000412,ORD_001732,2023-04-24,Delivery was late,late_delivery,257
+RET_000413,ORD_001738,2023-10-09,Delivery was late,late_delivery,446
+RET_000414,ORD_001739,2023-12-14,Products were crushed,damaged,462
+RET_000415,ORD_001747,2024-02-13,Products were crushed,damaged,366
+RET_000416,ORD_001749,2023-05-17,Products were crushed,damaged,500
+RET_000417,ORD_001750,2023-05-13,Product was stale,stale,122
+RET_000418,ORD_001752,2023-08-10,Product was stale,stale,470
+RET_000419,ORD_001753,2023-07-23,Quality below expectations,quality_issues,224
+RET_000420,ORD_001760,2024-02-16,Quality below expectations,quality_issues,165
+RET_000421,ORD_001762,2023-06-21,Not fresh,quality_issues,470
+RET_000422,ORD_001769,2023-09-20,Poor quality,quality_issues,406
+RET_000423,ORD_001770,2024-01-26,Items were rotten,stale,302
+RET_000424,ORD_001772,2023-01-12,Products were crushed,damaged,128
+RET_000425,ORD_001773,2023-12-22,Found mold on the product,stale,76
+RET_000426,ORD_001775,2023-12-02,Items were damaged,damaged,456
+RET_000427,ORD_001777,2023-03-15,Packaging was damaged,damaged,281
+RET_000428,ORD_001780,2023-11-22,Different product than ordered,wrong_item,246
+RET_000429,ORD_001786,2023-09-28,Spoiled items received,stale,224
+RET_000430,ORD_001788,2023-02-24,Spoiled items received,stale,100
+RET_000431,ORD_001790,2024-02-05,Product was stale,stale,476
+RET_000432,ORD_001794,2023-05-28,Items looked old,quality_issues,378
+RET_000433,ORD_001795,2023-08-06,Products were crushed,damaged,276
+RET_000434,ORD_001799,2023-05-18,Found mold on the product,stale,233
+RET_000435,ORD_001821,2023-09-09,Spoiled items received,stale,303
+RET_000436,ORD_001825,2023-07-09,Not fresh,quality_issues,448
+RET_000437,ORD_001830,2023-09-12,Items were rotten,stale,225
+RET_000438,ORD_001836,2023-02-20,Incorrect item,wrong_item,367
+RET_000439,ORD_001837,2023-04-27,Not fresh,quality_issues,406
+RET_000440,ORD_001839,2023-03-13,Spoiled items received,stale,133
+RET_000441,ORD_001843,2023-05-30,Product was stale,stale,71
+RET_000442,ORD_001849,2024-01-19,Received after expected date,late_delivery,328
+RET_000443,ORD_001852,2023-08-06,Spoiled items received,stale,256
+RET_000444,ORD_001855,2023-06-18,Items were rotten,stale,417
+RET_000445,ORD_001862,2023-05-19,Incorrect item,wrong_item,85
+RET_000446,ORD_001863,2023-03-29,Packaging leaked,packaging_issues,468
+RET_000447,ORD_001867,2023-04-10,Received after expected date,late_delivery,91
+RET_000448,ORD_001870,2023-01-18,Poor quality,quality_issues,345
+RET_000449,ORD_001873,2023-12-09,Product was stale,stale,111
+RET_000450,ORD_001878,2023-06-28,Items were rotten,stale,408
+RET_000451,ORD_001880,2024-02-10,Items looked old,quality_issues,233
+RET_000452,ORD_001889,2023-02-27,Items were damaged,damaged,69
+RET_000453,ORD_001891,2023-09-14,Items were damaged,damaged,494
+RET_000454,ORD_001894,2023-10-02,Packaging leaked,packaging_issues,272
+RET_000455,ORD_001917,2023-12-14,Spoiled items received,stale,107
+RET_000456,ORD_001921,2023-06-01,Packaging was damaged,damaged,127
+RET_000457,ORD_001925,2023-07-25,Items were rotten,stale,474
+RET_000458,ORD_001926,2023-03-06,Products were crushed,damaged,50
+RET_000459,ORD_001928,2024-02-09,Product was stale,stale,269
+RET_000460,ORD_001931,2023-10-12,Spoiled items received,stale,188
+RET_000461,ORD_001935,2023-01-31,Product was stale,stale,229
+RET_000462,ORD_001938,2023-02-25,Packaging was damaged,damaged,463
+RET_000463,ORD_001942,2023-01-21,Not fresh,quality_issues,488
+RET_000464,ORD_001945,2023-02-02,Products were crushed,damaged,294
+RET_000465,ORD_001946,2023-12-26,Delivery was late,late_delivery,90
+RET_000466,ORD_001967,2023-10-05,Product was stale,stale,190
+RET_000467,ORD_001972,2023-09-29,Items were rotten,stale,51
+RET_000468,ORD_001975,2023-07-19,Different product than ordered,wrong_item,311
+RET_000469,ORD_001984,2023-09-30,Found mold on the product,stale,461
+RET_000470,ORD_001985,2023-11-06,Delivery was late,late_delivery,114
+RET_000471,ORD_001998,2024-03-01,Product was stale,stale,249
+RET_000472,ORD_002006,2024-01-30,Delivery was late,late_delivery,182
+RET_000473,ORD_002011,2023-04-06,Product was stale,stale,278
+RET_000474,ORD_002013,2023-07-11,Incorrect item,wrong_item,104
+RET_000475,ORD_002017,2023-05-10,Packaging was damaged,damaged,451
+RET_000476,ORD_002022,2024-01-05,Delayed delivery,late_delivery,396
+RET_000477,ORD_002023,2023-11-22,Items were rotten,stale,66
+RET_000478,ORD_002027,2023-10-29,Products were crushed,damaged,294
+RET_000479,ORD_002029,2023-04-29,Delayed delivery,late_delivery,284
+RET_000480,ORD_002030,2023-07-16,Products were crushed,damaged,210
+RET_000481,ORD_002031,2023-05-13,Bruised fruits,damaged,388
+RET_000482,ORD_002032,2023-10-25,Poor quality,quality_issues,379
+RET_000483,ORD_002039,2023-12-30,Items were damaged,damaged,142
+RET_000484,ORD_002045,2023-09-12,Bruised fruits,damaged,50
+RET_000485,ORD_002049,2023-01-15,Bruised fruits,damaged,162
+RET_000486,ORD_002053,2023-10-29,Inadequate packaging,packaging_issues,202
+RET_000487,ORD_002054,2023-07-21,Product was stale,stale,367
+RET_000488,ORD_002060,2023-11-09,Product was stale,stale,201
+RET_000489,ORD_002061,2023-03-21,Delivery was late,late_delivery,397
+RET_000490,ORD_002069,2023-05-24,Incorrect item,wrong_item,239
+RET_000491,ORD_002071,2023-11-05,Items were damaged,damaged,282
+RET_000492,ORD_002073,2023-06-03,Packaging was damaged,damaged,159
+RET_000493,ORD_002074,2024-01-05,Product was stale,stale,323
+RET_000494,ORD_002077,2023-04-07,Items were rotten,stale,495
+RET_000495,ORD_002079,2023-08-28,Items were damaged,damaged,192
+RET_000496,ORD_002080,2023-02-10,Found mold on the product,stale,382
+RET_000497,ORD_002081,2023-10-01,Bruised fruits,damaged,213
+RET_000498,ORD_002083,2023-12-26,Found mold on the product,stale,229
+RET_000499,ORD_002085,2023-09-09,Received after expected date,late_delivery,404
+RET_000500,ORD_002089,2023-07-24,Delivery was late,late_delivery,252
+RET_000501,ORD_002091,2023-10-05,Not fresh,quality_issues,122
+RET_000502,ORD_002093,2024-01-20,Packaging was damaged,damaged,158
+RET_000503,ORD_002094,2023-07-15,Product was stale,stale,189
+RET_000504,ORD_002098,2023-02-07,Different product than ordered,wrong_item,387
+RET_000505,ORD_002102,2023-01-10,Poor quality,quality_issues,119
+RET_000506,ORD_002105,2023-02-12,Spoiled items received,stale,395
+RET_000507,ORD_002108,2023-01-20,Inadequate packaging,packaging_issues,481
+RET_000508,ORD_002113,2023-01-23,Different product than ordered,wrong_item,247
+RET_000509,ORD_002120,2023-07-28,Inadequate packaging,packaging_issues,185
+RET_000510,ORD_002125,2024-02-21,Quality below expectations,quality_issues,245
+RET_000511,ORD_002126,2023-02-04,Bruised fruits,damaged,425
+RET_000512,ORD_002128,2023-09-03,Packaging was damaged,damaged,253
+RET_000513,ORD_002131,2023-04-17,Poor packaging,packaging_issues,389
+RET_000514,ORD_002137,2024-01-26,Wrong product delivered,wrong_item,219
+RET_000515,ORD_002138,2023-08-01,Spoiled items received,stale,275
+RET_000516,ORD_002142,2023-09-11,Spoiled items received,stale,84
+RET_000517,ORD_002145,2023-09-04,Items were rotten,stale,185
+RET_000518,ORD_002146,2023-02-02,Wrong product delivered,wrong_item,142
+RET_000519,ORD_002152,2023-03-01,Delivery was late,late_delivery,302
+RET_000520,ORD_002153,2023-07-26,Items were rotten,stale,123
+RET_000521,ORD_002155,2023-07-17,Packaging was damaged,damaged,307
+RET_000522,ORD_002160,2024-02-13,Items were rotten,stale,464
+RET_000523,ORD_002161,2023-11-14,Delivery was late,late_delivery,71
+RET_000524,ORD_002164,2023-02-11,Wrong product delivered,wrong_item,189
+RET_000525,ORD_002165,2023-10-26,Wrong product delivered,wrong_item,240
+RET_000526,ORD_002173,2023-04-30,Packaging was damaged,damaged,344
+RET_000527,ORD_002174,2023-12-27,Products were crushed,damaged,259
+RET_000528,ORD_002175,2023-01-17,Items were rotten,stale,328
+RET_000529,ORD_002182,2024-02-07,Items were rotten,stale,100
+RET_000530,ORD_002185,2023-08-14,Incorrect item,wrong_item,176
+RET_000531,ORD_002196,2023-11-24,Incorrect item,wrong_item,55
+RET_000532,ORD_002199,2023-02-07,Received after expected date,late_delivery,343
+RET_000533,ORD_002201,2023-11-12,Delayed delivery,late_delivery,56
+RET_000534,ORD_002205,2023-09-10,Products were crushed,damaged,240
+RET_000535,ORD_002213,2024-01-13,Items looked old,quality_issues,115
+RET_000536,ORD_002224,2023-10-09,Packaging leaked,packaging_issues,272
+RET_000537,ORD_002227,2023-03-02,Incorrect item,wrong_item,430
+RET_000538,ORD_002234,2023-09-17,Spoiled items received,stale,424
+RET_000539,ORD_002240,2023-07-01,Bruised fruits,damaged,336
+RET_000540,ORD_002247,2023-10-04,Spoiled items received,stale,340
+RET_000541,ORD_002251,2023-05-12,Received after expected date,late_delivery,354
+RET_000542,ORD_002252,2023-08-08,Products were crushed,damaged,463
+RET_000543,ORD_002255,2023-03-10,Items were rotten,stale,266
+RET_000544,ORD_002263,2023-09-24,Poor quality,quality_issues,169
+RET_000545,ORD_002265,2023-03-11,Bruised fruits,damaged,93
+RET_000546,ORD_002272,2023-03-07,Items were rotten,stale,75
+RET_000547,ORD_002274,2023-03-26,Items were rotten,stale,259
+RET_000548,ORD_002275,2023-10-11,Items looked old,quality_issues,174
+RET_000549,ORD_002276,2023-03-14,Products were crushed,damaged,137
+RET_000550,ORD_002284,2023-07-18,Items looked old,quality_issues,259
+RET_000551,ORD_002292,2024-01-13,Products were crushed,damaged,188
+RET_000552,ORD_002293,2023-08-23,Wrong product delivered,wrong_item,125
+RET_000553,ORD_002295,2023-03-19,Products were crushed,damaged,177
+RET_000554,ORD_002296,2024-02-18,Items were damaged,damaged,112
+RET_000555,ORD_002300,2023-02-20,Different product than ordered,wrong_item,313
+RET_000556,ORD_002310,2023-08-06,Items were damaged,damaged,445
+RET_000557,ORD_002313,2023-02-05,Items were rotten,stale,317
+RET_000558,ORD_002320,2023-03-23,Product was stale,stale,433
+RET_000559,ORD_002334,2023-08-08,Not fresh,quality_issues,133
+RET_000560,ORD_002344,2024-01-30,Bruised fruits,damaged,70
+RET_000561,ORD_002351,2024-02-28,Quality below expectations,quality_issues,450
+RET_000562,ORD_002360,2023-09-21,Spoiled items received,stale,132
+RET_000563,ORD_002368,2023-08-24,Product was stale,stale,490
+RET_000564,ORD_002371,2023-09-28,Found mold on the product,stale,453
+RET_000565,ORD_002375,2023-11-07,Items were rotten,stale,283
+RET_000566,ORD_002376,2024-01-11,Products were crushed,damaged,475
+RET_000567,ORD_002377,2023-07-17,Items were rotten,stale,365
+RET_000568,ORD_002379,2023-07-14,Products were crushed,damaged,341
+RET_000569,ORD_002391,2024-02-24,Packaging leaked,packaging_issues,416
+RET_000570,ORD_002394,2023-03-25,Items were rotten,stale,464
+RET_000571,ORD_002398,2023-11-04,Packaging was damaged,damaged,435
+RET_000572,ORD_002400,2023-11-17,Items looked old,quality_issues,208
+RET_000573,ORD_002402,2023-05-25,Spoiled items received,stale,88
+RET_000574,ORD_002405,2023-11-22,Packaging was damaged,damaged,211
+RET_000575,ORD_002412,2023-05-06,Different product than ordered,wrong_item,327
+RET_000576,ORD_002415,2023-04-05,Poor packaging,packaging_issues,491
+RET_000577,ORD_002419,2023-02-18,Product was stale,stale,360
+RET_000578,ORD_002423,2023-10-27,Poor packaging,packaging_issues,94
+RET_000579,ORD_002424,2023-11-05,Items were damaged,damaged,214
+RET_000580,ORD_002426,2023-04-28,Spoiled items received,stale,96
+RET_000581,ORD_002427,2023-08-24,Packaging was damaged,damaged,194
+RET_000582,ORD_002428,2024-01-04,Delivery was late,late_delivery,433
+RET_000583,ORD_002445,2023-01-13,Packaging was damaged,damaged,260
+RET_000584,ORD_002447,2023-08-13,Spoiled items received,stale,408
+RET_000585,ORD_002454,2023-02-07,Items were damaged,damaged,394
+RET_000586,ORD_002458,2023-12-29,Found mold on the product,stale,446
+RET_000587,ORD_002460,2024-03-03,Items were rotten,stale,337
+RET_000588,ORD_002464,2024-01-13,Product was stale,stale,356
+RET_000589,ORD_002470,2023-01-14,Spoiled items received,stale,149
+RET_000590,ORD_002474,2023-01-16,Spoiled items received,stale,257
+RET_000591,ORD_002475,2024-03-05,Items were rotten,stale,242
+RET_000592,ORD_002478,2023-05-26,Packaging was damaged,damaged,414
+RET_000593,ORD_002479,2023-07-30,Spoiled items received,stale,195
+RET_000594,ORD_002481,2023-03-21,Items were rotten,stale,55
+RET_000595,ORD_002482,2023-07-21,Incorrect item,wrong_item,362
+RET_000596,ORD_002486,2023-02-21,Packaging was damaged,damaged,202
+RET_000597,ORD_002489,2024-03-01,Quality below expectations,quality_issues,476
+RET_000598,ORD_002492,2023-09-13,Product was stale,stale,382
+RET_000599,ORD_002497,2023-08-05,Found mold on the product,stale,81
+RET_000600,ORD_002499,2023-11-04,Items were rotten,stale,464
+RET_000601,ORD_002506,2023-08-30,Spoiled items received,stale,51
+RET_000602,ORD_002507,2023-02-02,Product was stale,stale,439
+RET_000603,ORD_002517,2023-03-06,Spoiled items received,stale,397
+RET_000604,ORD_002522,2023-07-13,Spoiled items received,stale,466
+RET_000605,ORD_002525,2023-03-18,Items were rotten,stale,350
+RET_000606,ORD_002528,2023-09-05,Products were crushed,damaged,72
+RET_000607,ORD_002536,2023-07-31,Items were rotten,stale,398
+RET_000608,ORD_002538,2023-07-04,Found mold on the product,stale,207
+RET_000609,ORD_002539,2023-08-24,Products were crushed,damaged,348
+RET_000610,ORD_002543,2023-01-28,Poor quality,quality_issues,338
+RET_000611,ORD_002545,2023-03-21,Items were rotten,stale,214
+RET_000612,ORD_002546,2023-05-06,Items looked old,quality_issues,292
+RET_000613,ORD_002547,2023-05-07,Items were damaged,damaged,344
+RET_000614,ORD_002556,2023-05-09,Product was stale,stale,422
+RET_000615,ORD_002557,2024-03-05,Incorrect item,wrong_item,450
+RET_000616,ORD_002562,2023-10-29,Inadequate packaging,packaging_issues,57
+RET_000617,ORD_002563,2023-05-30,Found mold on the product,stale,245
+RET_000618,ORD_002569,2023-06-25,Found mold on the product,stale,344
+RET_000619,ORD_002572,2024-02-15,Wrong product delivered,wrong_item,479
+RET_000620,ORD_002573,2023-10-10,Quality below expectations,quality_issues,213
+RET_000621,ORD_002579,2023-06-04,Found mold on the product,stale,470
+RET_000622,ORD_002583,2023-01-13,Found mold on the product,stale,128
+RET_000623,ORD_002584,2023-10-17,Product was stale,stale,287
+RET_000624,ORD_002586,2023-12-01,Items were damaged,damaged,136
+RET_000625,ORD_002588,2023-07-07,Bruised fruits,damaged,70
+RET_000626,ORD_002598,2023-03-11,Found mold on the product,stale,471
+RET_000627,ORD_002604,2023-12-20,Items were damaged,damaged,373
+RET_000628,ORD_002619,2023-06-07,Not fresh,quality_issues,494
+RET_000629,ORD_002622,2024-01-02,Items were rotten,stale,139
+RET_000630,ORD_002623,2023-06-08,Spoiled items received,stale,62
+RET_000631,ORD_002632,2023-08-28,Items looked old,quality_issues,173
+RET_000632,ORD_002635,2023-11-21,Incorrect item,wrong_item,466
+RET_000633,ORD_002638,2023-07-18,Packaging was damaged,damaged,426
+RET_000634,ORD_002640,2023-05-19,Packaging was damaged,damaged,225
+RET_000635,ORD_002642,2023-04-09,Found mold on the product,stale,243
+RET_000636,ORD_002644,2023-03-03,Packaging was damaged,damaged,196
+RET_000637,ORD_002647,2023-02-19,Products were crushed,damaged,137
+RET_000638,ORD_002654,2023-03-26,Items were rotten,stale,59
+RET_000639,ORD_002655,2023-02-22,Found mold on the product,stale,69
+RET_000640,ORD_002659,2023-03-04,Items were rotten,stale,205
+RET_000641,ORD_002660,2023-04-14,Spoiled items received,stale,269
+RET_000642,ORD_002680,2023-06-08,Spoiled items received,stale,417
+RET_000643,ORD_002684,2024-01-20,Spoiled items received,stale,386
+RET_000644,ORD_002686,2023-05-22,Product was stale,stale,103
+RET_000645,ORD_002690,2024-01-19,Spoiled items received,stale,339
+RET_000646,ORD_002692,2023-09-11,Incorrect item,wrong_item,483
+RET_000647,ORD_002699,2023-02-15,Products were crushed,damaged,330
+RET_000648,ORD_002710,2023-03-31,Not fresh,quality_issues,139
+RET_000649,ORD_002711,2023-10-18,Poor quality,quality_issues,50
+RET_000650,ORD_002714,2024-02-12,Packaging was damaged,damaged,300
+RET_000651,ORD_002726,2023-04-30,Items were rotten,stale,295
+RET_000652,ORD_002728,2023-04-10,Items were damaged,damaged,442
+RET_000653,ORD_002732,2023-05-06,Items were damaged,damaged,214
+RET_000654,ORD_002742,2023-12-23,Not fresh,quality_issues,166
+RET_000655,ORD_002746,2023-02-17,Products were crushed,damaged,381
+RET_000656,ORD_002748,2023-12-04,Product was stale,stale,395
+RET_000657,ORD_002751,2023-03-26,Product was stale,stale,92
+RET_000658,ORD_002762,2023-10-26,Spoiled items received,stale,442
+RET_000659,ORD_002763,2023-03-09,Products were crushed,damaged,349
+RET_000660,ORD_002770,2024-01-18,Bruised fruits,damaged,52
+RET_000661,ORD_002779,2024-01-15,Product was stale,stale,228
+RET_000662,ORD_002781,2023-05-25,Received after expected date,late_delivery,377
+RET_000663,ORD_002784,2023-12-09,Products were crushed,damaged,267
+RET_000664,ORD_002792,2023-03-27,Product was stale,stale,376
+RET_000665,ORD_002799,2023-05-01,Product was stale,stale,397
+RET_000666,ORD_002803,2023-04-01,Items were rotten,stale,115
+RET_000667,ORD_002804,2023-02-24,Found mold on the product,stale,294
+RET_000668,ORD_002805,2023-12-14,Product was stale,stale,431
+RET_000669,ORD_002806,2023-12-28,Items were rotten,stale,255
+RET_000670,ORD_002808,2023-04-19,Spoiled items received,stale,291
+RET_000671,ORD_002810,2023-06-02,Spoiled items received,stale,236
+RET_000672,ORD_002822,2024-01-01,Different product than ordered,wrong_item,330
+RET_000673,ORD_002841,2024-02-29,Found mold on the product,stale,452
+RET_000674,ORD_002846,2023-05-29,Bruised fruits,damaged,388
+RET_000675,ORD_002849,2023-09-05,Packaging was damaged,damaged,174
+RET_000676,ORD_002852,2023-02-02,Delayed delivery,late_delivery,166
+RET_000677,ORD_002857,2023-11-05,Product was stale,stale,122
+RET_000678,ORD_002861,2023-02-16,Found mold on the product,stale,474
+RET_000679,ORD_002866,2023-03-28,Received after expected date,late_delivery,356
+RET_000680,ORD_002869,2023-04-25,Wrong product delivered,wrong_item,124
+RET_000681,ORD_002870,2023-07-14,Wrong product delivered,wrong_item,176
+RET_000682,ORD_002873,2023-09-28,Product was stale,stale,401
+RET_000683,ORD_002874,2023-12-05,Product was stale,stale,394
+RET_000684,ORD_002876,2023-09-24,Not fresh,quality_issues,130
+RET_000685,ORD_002884,2023-11-20,Packaging leaked,packaging_issues,390
+RET_000686,ORD_002890,2023-09-25,Items were damaged,damaged,181
+RET_000687,ORD_002894,2023-03-21,Products were crushed,damaged,90
+RET_000688,ORD_002904,2023-05-04,Product was stale,stale,441
+RET_000689,ORD_002912,2024-02-12,Items looked old,quality_issues,89
+RET_000690,ORD_002913,2023-09-15,Found mold on the product,stale,476
+RET_000691,ORD_002921,2023-12-26,Items were rotten,stale,214
+RET_000692,ORD_002924,2023-04-12,Packaging was damaged,damaged,233
+RET_000693,ORD_002925,2023-05-15,Bruised fruits,damaged,54
+RET_000694,ORD_002931,2023-05-04,Product was stale,stale,402
+RET_000695,ORD_002941,2024-01-06,Product was stale,stale,341
+RET_000696,ORD_002942,2023-05-16,Bruised fruits,damaged,200
+RET_000697,ORD_002949,2023-05-15,Spoiled items received,stale,218
+RET_000698,ORD_002969,2024-01-08,Products were crushed,damaged,95
+RET_000699,ORD_002978,2024-01-18,Found mold on the product,stale,225
+RET_000700,ORD_002989,2023-09-09,Items were damaged,damaged,322
+RET_000701,ORD_002994,2023-09-18,Items were damaged,damaged,122
+RET_000702,ORD_002999,2023-04-19,Product was stale,stale,469
+RET_000703,ORD_003003,2023-07-27,Product was stale,stale,214
+RET_000704,ORD_003007,2023-06-08,Product was stale,stale,263
+RET_000705,ORD_003009,2023-12-03,Found mold on the product,stale,118
+RET_000706,ORD_003010,2024-02-18,Received after expected date,late_delivery,465
+RET_000707,ORD_003011,2023-09-17,Found mold on the product,stale,304
+RET_000708,ORD_003017,2023-07-29,Incorrect item,wrong_item,483
+RET_000709,ORD_003019,2023-01-18,Found mold on the product,stale,371
+RET_000710,ORD_003025,2023-10-27,Not fresh,quality_issues,207
+RET_000711,ORD_003027,2024-03-03,Quality below expectations,quality_issues,492
+RET_000712,ORD_003031,2023-08-17,Packaging was damaged,damaged,215
+RET_000713,ORD_003034,2023-06-23,Items were damaged,damaged,411
+RET_000714,ORD_003041,2023-10-13,Packaging was damaged,damaged,273
+RET_000715,ORD_003046,2024-01-26,Found mold on the product,stale,369
+RET_000716,ORD_003061,2023-05-06,Inadequate packaging,packaging_issues,289
+RET_000717,ORD_003066,2023-08-02,Different product than ordered,wrong_item,452
+RET_000718,ORD_003070,2023-01-26,Delivery was late,late_delivery,361
+RET_000719,ORD_003071,2024-03-07,Product was stale,stale,438
+RET_000720,ORD_003072,2023-03-04,Not fresh,quality_issues,320
+RET_000721,ORD_003075,2023-09-13,Packaging leaked,packaging_issues,159
+RET_000722,ORD_003076,2023-05-23,Items were rotten,stale,74
+RET_000723,ORD_003082,2024-01-31,Items were rotten,stale,88
+RET_000724,ORD_003088,2023-03-17,Quality below expectations,quality_issues,491
+RET_000725,ORD_003090,2023-05-08,Bruised fruits,damaged,249
+RET_000726,ORD_003092,2023-01-14,Wrong product delivered,wrong_item,297
+RET_000727,ORD_003093,2023-08-12,Spoiled items received,stale,337
+RET_000728,ORD_003099,2023-04-12,Not fresh,quality_issues,84
+RET_000729,ORD_003100,2023-11-08,Product was stale,stale,331
+RET_000730,ORD_003102,2024-02-06,Found mold on the product,stale,279
+RET_000731,ORD_003104,2024-02-04,Items were rotten,stale,328
+RET_000732,ORD_003108,2023-06-08,Different product than ordered,wrong_item,373
+RET_000733,ORD_003109,2023-10-20,Items looked old,quality_issues,441
+RET_000734,ORD_003114,2023-11-05,Packaging was damaged,damaged,133
+RET_000735,ORD_003115,2023-09-14,Spoiled items received,stale,250
+RET_000736,ORD_003122,2023-04-23,Wrong product delivered,wrong_item,393
+RET_000737,ORD_003124,2023-04-04,Product was stale,stale,453
+RET_000738,ORD_003126,2023-07-22,Incorrect item,wrong_item,325
+RET_000739,ORD_003132,2023-08-22,Items were damaged,damaged,296
+RET_000740,ORD_003134,2023-03-15,Found mold on the product,stale,340
+RET_000741,ORD_003140,2023-05-22,Products were crushed,damaged,398
+RET_000742,ORD_003142,2023-07-30,Spoiled items received,stale,122
+RET_000743,ORD_003145,2023-07-02,Items looked old,quality_issues,361
+RET_000744,ORD_003146,2023-09-13,Bruised fruits,damaged,331
+RET_000745,ORD_003153,2023-05-07,Items were rotten,stale,372
+RET_000746,ORD_003163,2023-09-30,Wrong product delivered,wrong_item,130
+RET_000747,ORD_003165,2023-02-16,Spoiled items received,stale,216
+RET_000748,ORD_003173,2023-05-13,Bruised fruits,damaged,75
+RET_000749,ORD_003176,2023-06-17,Inadequate packaging,packaging_issues,412
+RET_000750,ORD_003184,2023-03-15,Items were damaged,damaged,210
+RET_000751,ORD_003186,2023-12-15,Product was stale,stale,308
+RET_000752,ORD_003194,2023-06-05,Poor packaging,packaging_issues,422
+RET_000753,ORD_003203,2023-02-27,Products were crushed,damaged,394
+RET_000754,ORD_003208,2024-02-05,Items were rotten,stale,364
+RET_000755,ORD_003211,2023-09-17,Spoiled items received,stale,448
+RET_000756,ORD_003212,2023-06-23,Poor quality,quality_issues,240
+RET_000757,ORD_003224,2024-01-12,Items were damaged,damaged,151
+RET_000758,ORD_003232,2024-01-03,Items were damaged,damaged,164
+RET_000759,ORD_003240,2023-03-01,Incorrect item,wrong_item,196
+RET_000760,ORD_003243,2023-03-02,Items looked old,quality_issues,370
+RET_000761,ORD_003246,2024-01-11,Items were rotten,stale,493
+RET_000762,ORD_003254,2023-10-29,Spoiled items received,stale,77
+RET_000763,ORD_003255,2023-01-06,Spoiled items received,stale,148
+RET_000764,ORD_003256,2023-10-20,Not fresh,quality_issues,321
+RET_000765,ORD_003261,2023-07-29,Found mold on the product,stale,441
+RET_000766,ORD_003270,2023-11-10,Items were damaged,damaged,402
+RET_000767,ORD_003271,2023-03-27,Items looked old,quality_issues,421
+RET_000768,ORD_003281,2023-07-06,Wrong product delivered,wrong_item,331
+RET_000769,ORD_003286,2023-01-13,Items were rotten,stale,51
+RET_000770,ORD_003288,2023-08-18,Different product than ordered,wrong_item,247
+RET_000771,ORD_003292,2023-02-21,Items were rotten,stale,201
+RET_000772,ORD_003295,2023-03-31,Wrong product delivered,wrong_item,283
+RET_000773,ORD_003301,2023-09-22,Found mold on the product,stale,409
+RET_000774,ORD_003306,2023-10-26,Items were rotten,stale,244
+RET_000775,ORD_003322,2023-04-26,Not fresh,quality_issues,259
+RET_000776,ORD_003325,2024-01-03,Items were rotten,stale,175
+RET_000777,ORD_003337,2024-03-01,Items were rotten,stale,81
+RET_000778,ORD_003339,2023-08-17,Not fresh,quality_issues,179
+RET_000779,ORD_003342,2023-10-27,Items looked old,quality_issues,71
+RET_000780,ORD_003343,2023-02-05,Items were damaged,damaged,211
+RET_000781,ORD_003344,2023-06-01,Not fresh,quality_issues,131
+RET_000782,ORD_003345,2023-12-29,Packaging was damaged,damaged,262
+RET_000783,ORD_003352,2023-07-20,Spoiled items received,stale,67
+RET_000784,ORD_003353,2023-06-27,Found mold on the product,stale,375
+RET_000785,ORD_003356,2023-02-23,Spoiled items received,stale,496
+RET_000786,ORD_003359,2023-08-19,Inadequate packaging,packaging_issues,84
+RET_000787,ORD_003361,2023-07-10,Bruised fruits,damaged,401
+RET_000788,ORD_003365,2023-12-13,Products were crushed,damaged,199
+RET_000789,ORD_003366,2023-01-28,Products were crushed,damaged,457
+RET_000790,ORD_003368,2023-10-04,Packaging leaked,packaging_issues,202
+RET_000791,ORD_003371,2023-06-24,Product was stale,stale,99
+RET_000792,ORD_003374,2023-09-22,Items were damaged,damaged,499
+RET_000793,ORD_003383,2023-11-01,Packaging was damaged,damaged,389
+RET_000794,ORD_003384,2023-02-08,Packaging was damaged,damaged,453
+RET_000795,ORD_003387,2023-06-27,Spoiled items received,stale,375
+RET_000796,ORD_003389,2023-09-11,Wrong product delivered,wrong_item,116
+RET_000797,ORD_003396,2023-01-26,Packaging leaked,packaging_issues,334
+RET_000798,ORD_003400,2023-01-10,Bruised fruits,damaged,471
+RET_000799,ORD_003404,2023-12-16,Not fresh,quality_issues,219
+RET_000800,ORD_003411,2023-11-04,Poor packaging,packaging_issues,80
+RET_000801,ORD_003412,2023-02-22,Poor quality,quality_issues,493
+RET_000802,ORD_003413,2024-01-31,Product was stale,stale,69
+RET_000803,ORD_003415,2023-04-18,Items were damaged,damaged,213
+RET_000804,ORD_003424,2023-07-10,Bruised fruits,damaged,445
+RET_000805,ORD_003426,2023-07-09,Packaging was damaged,damaged,468
+RET_000806,ORD_003430,2023-08-28,Not fresh,quality_issues,63
+RET_000807,ORD_003432,2023-06-16,Packaging leaked,packaging_issues,261
+RET_000808,ORD_003433,2023-06-08,Poor packaging,packaging_issues,393
+RET_000809,ORD_003435,2023-11-23,Items were damaged,damaged,366
+RET_000810,ORD_003437,2023-04-25,Product was stale,stale,181
+RET_000811,ORD_003442,2023-11-17,Received after expected date,late_delivery,193
+RET_000812,ORD_003445,2023-02-06,Incorrect item,wrong_item,222
+RET_000813,ORD_003450,2023-08-12,Product was stale,stale,66
+RET_000814,ORD_003455,2023-03-06,Packaging leaked,packaging_issues,159
+RET_000815,ORD_003461,2023-10-24,Different product than ordered,wrong_item,120
+RET_000816,ORD_003462,2023-03-22,Products were crushed,damaged,430
+RET_000817,ORD_003464,2023-12-23,Items were damaged,damaged,328
+RET_000818,ORD_003469,2023-09-05,Product was stale,stale,262
+RET_000819,ORD_003476,2023-11-29,Spoiled items received,stale,415
+RET_000820,ORD_003478,2023-07-17,Spoiled items received,stale,69
+RET_000821,ORD_003479,2023-12-22,Wrong product delivered,wrong_item,88
+RET_000822,ORD_003488,2023-01-04,Spoiled items received,stale,316
+RET_000823,ORD_003494,2023-01-05,Spoiled items received,stale,363
+RET_000824,ORD_003495,2023-04-30,Spoiled items received,stale,164
+RET_000825,ORD_003498,2023-03-08,Bruised fruits,damaged,254
+RET_000826,ORD_003501,2024-02-26,Poor packaging,packaging_issues,417
+RET_000827,ORD_003503,2023-01-21,Items were rotten,stale,323
+RET_000828,ORD_003506,2023-07-19,Spoiled items received,stale,201
+RET_000829,ORD_003508,2023-12-12,Items looked old,quality_issues,151
+RET_000830,ORD_003511,2023-12-21,Packaging was damaged,damaged,437
+RET_000831,ORD_003522,2024-03-01,Spoiled items received,stale,391
+RET_000832,ORD_003531,2024-01-28,Packaging was damaged,damaged,366
+RET_000833,ORD_003535,2023-03-02,Product was stale,stale,157
+RET_000834,ORD_003538,2023-03-14,Items were rotten,stale,422
+RET_000835,ORD_003540,2023-12-31,Packaging was damaged,damaged,117
+RET_000836,ORD_003542,2024-01-30,Items were damaged,damaged,144
+RET_000837,ORD_003551,2023-07-22,Poor packaging,packaging_issues,248
+RET_000838,ORD_003552,2023-11-07,Spoiled items received,stale,74
+RET_000839,ORD_003556,2023-07-01,Items were damaged,damaged,197
+RET_000840,ORD_003558,2023-01-10,Products were crushed,damaged,479
+RET_000841,ORD_003564,2023-08-15,Found mold on the product,stale,149
+RET_000842,ORD_003569,2024-02-14,Items looked old,quality_issues,470
+RET_000843,ORD_003571,2024-01-10,Spoiled items received,stale,475
+RET_000844,ORD_003573,2023-02-01,Delivery was late,late_delivery,418
+RET_000845,ORD_003583,2023-10-04,Items were rotten,stale,217
+RET_000846,ORD_003586,2023-07-19,Items were damaged,damaged,370
+RET_000847,ORD_003593,2023-08-23,Items were rotten,stale,200
+RET_000848,ORD_003594,2023-06-09,Delayed delivery,late_delivery,312
+RET_000849,ORD_003601,2023-01-11,Bruised fruits,damaged,111
+RET_000850,ORD_003608,2023-02-24,Packaging was damaged,damaged,346
+RET_000851,ORD_003613,2023-02-14,Items were rotten,stale,148
+RET_000852,ORD_003614,2023-04-18,Not fresh,quality_issues,362
+RET_000853,ORD_003616,2023-09-22,Spoiled items received,stale,99
+RET_000854,ORD_003619,2023-05-04,Wrong product delivered,wrong_item,284
+RET_000855,ORD_003626,2023-09-13,Items were rotten,stale,126
+RET_000856,ORD_003629,2023-07-02,Found mold on the product,stale,62
+RET_000857,ORD_003633,2023-04-27,Spoiled items received,stale,205
+RET_000858,ORD_003634,2024-01-23,Items were damaged,damaged,230
+RET_000859,ORD_003635,2023-01-06,Products were crushed,damaged,234
+RET_000860,ORD_003641,2023-09-01,Items were rotten,stale,214
+RET_000861,ORD_003642,2023-08-23,Not fresh,quality_issues,259
+RET_000862,ORD_003648,2023-01-23,Products were crushed,damaged,321
+RET_000863,ORD_003649,2024-01-15,Packaging was damaged,damaged,403
+RET_000864,ORD_003654,2023-07-18,Bruised fruits,damaged,155
+RET_000865,ORD_003656,2023-04-01,Items were damaged,damaged,461
+RET_000866,ORD_003657,2023-07-08,Bruised fruits,damaged,97
+RET_000867,ORD_003661,2023-09-30,Found mold on the product,stale,171
+RET_000868,ORD_003664,2023-07-10,Product was stale,stale,344
+RET_000869,ORD_003665,2023-08-11,Wrong product delivered,wrong_item,472
+RET_000870,ORD_003666,2024-01-05,Inadequate packaging,packaging_issues,258
+RET_000871,ORD_003677,2024-02-07,Found mold on the product,stale,468
+RET_000872,ORD_003681,2024-02-02,Product was stale,stale,200
+RET_000873,ORD_003686,2023-02-23,Bruised fruits,damaged,401
+RET_000874,ORD_003687,2023-12-18,Bruised fruits,damaged,328
+RET_000875,ORD_003692,2023-01-24,Product was stale,stale,399
+RET_000876,ORD_003696,2023-03-23,Found mold on the product,stale,442
+RET_000877,ORD_003698,2023-10-25,Not fresh,quality_issues,289
+RET_000878,ORD_003706,2023-08-19,Quality below expectations,quality_issues,393
+RET_000879,ORD_003715,2023-01-10,Items were rotten,stale,105
+RET_000880,ORD_003718,2023-05-11,Spoiled items received,stale,94
+RET_000881,ORD_003727,2023-08-04,Product was stale,stale,215
+RET_000882,ORD_003729,2024-02-06,Quality below expectations,quality_issues,149
+RET_000883,ORD_003731,2023-08-21,Found mold on the product,stale,410
+RET_000884,ORD_003734,2023-07-10,Product was stale,stale,79
+RET_000885,ORD_003740,2023-03-22,Items looked old,quality_issues,453
+RET_000886,ORD_003746,2023-08-13,Found mold on the product,stale,249
+RET_000887,ORD_003754,2023-09-16,Poor quality,quality_issues,175
+RET_000888,ORD_003755,2024-02-07,Found mold on the product,stale,168
+RET_000889,ORD_003766,2023-08-05,Found mold on the product,stale,166
+RET_000890,ORD_003768,2023-09-11,Product was stale,stale,485
+RET_000891,ORD_003777,2023-02-12,Not fresh,quality_issues,50
+RET_000892,ORD_003779,2023-11-11,Different product than ordered,wrong_item,150
+RET_000893,ORD_003782,2023-09-04,Different product than ordered,wrong_item,491
+RET_000894,ORD_003785,2023-07-27,Items were rotten,stale,470
+RET_000895,ORD_003792,2023-10-15,Items looked old,quality_issues,476
+RET_000896,ORD_003795,2023-03-18,Spoiled items received,stale,299
+RET_000897,ORD_003796,2023-03-15,Items were rotten,stale,407
+RET_000898,ORD_003799,2023-11-03,Different product than ordered,wrong_item,136
+RET_000899,ORD_003801,2023-10-14,Found mold on the product,stale,283
+RET_000900,ORD_003806,2023-08-09,Found mold on the product,stale,332
+RET_000901,ORD_003808,2023-02-26,Items were rotten,stale,387
+RET_000902,ORD_003811,2023-06-29,Items were rotten,stale,264
+RET_000903,ORD_003819,2023-01-16,Items were rotten,stale,205
+RET_000904,ORD_003822,2023-06-02,Products were crushed,damaged,180
+RET_000905,ORD_003829,2023-02-19,Packaging was damaged,damaged,109
+RET_000906,ORD_003850,2023-05-22,Wrong product delivered,wrong_item,80
+RET_000907,ORD_003852,2023-12-25,Wrong product delivered,wrong_item,61
+RET_000908,ORD_003854,2024-02-22,Items were rotten,stale,155
+RET_000909,ORD_003857,2023-12-05,Found mold on the product,stale,133
+RET_000910,ORD_003858,2023-12-07,Product was stale,stale,113
+RET_000911,ORD_003859,2023-08-02,Packaging was damaged,damaged,211
+RET_000912,ORD_003860,2023-04-21,Found mold on the product,stale,485
+RET_000913,ORD_003862,2023-11-06,Items were damaged,damaged,222
+RET_000914,ORD_003864,2023-11-25,Products were crushed,damaged,300
+RET_000915,ORD_003865,2023-09-14,Packaging was damaged,damaged,463
+RET_000916,ORD_003868,2023-05-03,Items were damaged,damaged,289
+RET_000917,ORD_003870,2023-02-05,Found mold on the product,stale,392
+RET_000918,ORD_003871,2024-02-15,Inadequate packaging,packaging_issues,80
+RET_000919,ORD_003881,2023-11-04,Not fresh,quality_issues,212
+RET_000920,ORD_003883,2023-04-25,Spoiled items received,stale,275
+RET_000921,ORD_003886,2023-03-04,Wrong product delivered,wrong_item,65
+RET_000922,ORD_003890,2023-12-25,Products were crushed,damaged,93
+RET_000923,ORD_003893,2023-09-28,Wrong product delivered,wrong_item,57
+RET_000924,ORD_003900,2023-05-07,Items looked old,quality_issues,183
+RET_000925,ORD_003904,2023-09-20,Packaging was damaged,damaged,344
+RET_000926,ORD_003915,2023-12-25,Found mold on the product,stale,243
+RET_000927,ORD_003917,2024-01-19,Items were rotten,stale,307
+RET_000928,ORD_003922,2023-04-03,Bruised fruits,damaged,112
+RET_000929,ORD_003926,2023-07-22,Products were crushed,damaged,401
+RET_000930,ORD_003929,2023-01-31,Found mold on the product,stale,218
+RET_000931,ORD_003931,2023-09-16,Product was stale,stale,270
+RET_000932,ORD_003934,2023-08-15,Different product than ordered,wrong_item,470
+RET_000933,ORD_003936,2023-08-01,Delayed delivery,late_delivery,128
+RET_000934,ORD_003944,2023-09-10,Bruised fruits,damaged,385
+RET_000935,ORD_003945,2024-03-02,Spoiled items received,stale,131
+RET_000936,ORD_003947,2023-07-22,Spoiled items received,stale,258
+RET_000937,ORD_003948,2023-04-27,Spoiled items received,stale,115
+RET_000938,ORD_003958,2023-11-15,Poor packaging,packaging_issues,156
+RET_000939,ORD_003966,2024-02-26,Items were rotten,stale,134
+RET_000940,ORD_003973,2024-02-12,Products were crushed,damaged,210
+RET_000941,ORD_003981,2023-05-01,Items were rotten,stale,209
+RET_000942,ORD_003983,2023-03-14,Products were crushed,damaged,325
+RET_000943,ORD_003984,2023-04-30,Not fresh,quality_issues,209
+RET_000944,ORD_003986,2023-12-24,Incorrect item,wrong_item,346
+RET_000945,ORD_003988,2023-03-20,Spoiled items received,stale,326
+RET_000946,ORD_003989,2024-03-04,Items were rotten,stale,179
+RET_000947,ORD_003991,2023-06-10,Spoiled items received,stale,437
+RET_000948,ORD_003997,2023-10-18,Inadequate packaging,packaging_issues,142
+RET_000949,ORD_003999,2023-05-11,Wrong product delivered,wrong_item,143
+RET_000950,ORD_004007,2023-01-31,Bruised fruits,damaged,107
+RET_000951,ORD_004009,2023-02-13,Items were damaged,damaged,133
+RET_000952,ORD_004018,2023-08-19,Not fresh,quality_issues,62
+RET_000953,ORD_004021,2023-08-19,Product was stale,stale,96
+RET_000954,ORD_004024,2023-02-13,Inadequate packaging,packaging_issues,326
+RET_000955,ORD_004033,2023-07-07,Bruised fruits,damaged,367
+RET_000956,ORD_004042,2023-10-04,Found mold on the product,stale,235
+RET_000957,ORD_004043,2024-02-18,Products were crushed,damaged,223
+RET_000958,ORD_004047,2023-05-16,Items were rotten,stale,215
+RET_000959,ORD_004050,2023-04-06,Product was stale,stale,63
+RET_000960,ORD_004052,2023-11-30,Items looked old,quality_issues,56
+RET_000961,ORD_004055,2023-11-24,Product was stale,stale,102
+RET_000962,ORD_004056,2023-03-01,Items were damaged,damaged,145
+RET_000963,ORD_004059,2023-07-19,Found mold on the product,stale,479
+RET_000964,ORD_004066,2024-02-04,Found mold on the product,stale,442
+RET_000965,ORD_004067,2023-10-16,Spoiled items received,stale,251
+RET_000966,ORD_004069,2023-07-22,Found mold on the product,stale,226
+RET_000967,ORD_004071,2024-02-21,Items looked old,quality_issues,399
+RET_000968,ORD_004081,2023-04-04,Product was stale,stale,85
+RET_000969,ORD_004086,2023-12-16,Items were damaged,damaged,66
+RET_000970,ORD_004113,2023-02-16,Products were crushed,damaged,377
+RET_000971,ORD_004120,2024-02-27,Items looked old,quality_issues,350
+RET_000972,ORD_004125,2023-06-02,Inadequate packaging,packaging_issues,154
+RET_000973,ORD_004127,2023-04-24,Not fresh,quality_issues,56
+RET_000974,ORD_004132,2023-06-23,Found mold on the product,stale,65
+RET_000975,ORD_004142,2023-04-15,Spoiled items received,stale,225
+RET_000976,ORD_004149,2023-08-23,Found mold on the product,stale,265
+RET_000977,ORD_004154,2024-01-29,Bruised fruits,damaged,266
+RET_000978,ORD_004155,2023-08-07,Product was stale,stale,206
+RET_000979,ORD_004168,2023-09-25,Products were crushed,damaged,411
+RET_000980,ORD_004169,2023-01-09,Items were damaged,damaged,332
+RET_000981,ORD_004177,2023-12-30,Found mold on the product,stale,463
+RET_000982,ORD_004183,2023-06-18,Not fresh,quality_issues,448
+RET_000983,ORD_004184,2023-10-10,Spoiled items received,stale,77
+RET_000984,ORD_004186,2023-10-08,Spoiled items received,stale,445
+RET_000985,ORD_004192,2023-07-17,Poor quality,quality_issues,76
+RET_000986,ORD_004193,2023-05-05,Bruised fruits,damaged,217
+RET_000987,ORD_004198,2023-10-01,Not fresh,quality_issues,58
+RET_000988,ORD_004203,2024-02-03,Items were damaged,damaged,323
+RET_000989,ORD_004204,2023-11-26,Product was stale,stale,311
+RET_000990,ORD_004205,2023-06-13,Wrong product delivered,wrong_item,493
+RET_000991,ORD_004212,2024-01-22,Not fresh,quality_issues,447
+RET_000992,ORD_004216,2023-03-01,Quality below expectations,quality_issues,438
+RET_000993,ORD_004217,2023-02-06,Found mold on the product,stale,172
+RET_000994,ORD_004229,2024-02-21,Bruised fruits,damaged,306
+RET_000995,ORD_004233,2023-02-27,Product was stale,stale,177
+RET_000996,ORD_004238,2023-06-12,Product was stale,stale,344
+RET_000997,ORD_004244,2023-07-21,Inadequate packaging,packaging_issues,325
+RET_000998,ORD_004249,2024-01-08,Found mold on the product,stale,339
+RET_000999,ORD_004258,2024-01-23,Delivery was late,late_delivery,415
+RET_001000,ORD_004259,2023-07-28,Packaging was damaged,damaged,243
+RET_001001,ORD_004276,2023-06-15,Found mold on the product,stale,68
+RET_001002,ORD_004282,2023-05-21,Packaging was damaged,damaged,263
+RET_001003,ORD_004291,2023-09-30,Different product than ordered,wrong_item,205
+RET_001004,ORD_004295,2023-05-20,Poor quality,quality_issues,420
+RET_001005,ORD_004297,2023-03-10,Different product than ordered,wrong_item,226
+RET_001006,ORD_004299,2023-10-02,Quality below expectations,quality_issues,422
+RET_001007,ORD_004302,2023-01-13,Quality below expectations,quality_issues,480
+RET_001008,ORD_004307,2024-01-27,Incorrect item,wrong_item,91
+RET_001009,ORD_004311,2024-01-19,Spoiled items received,stale,377
+RET_001010,ORD_004312,2023-09-12,Items were damaged,damaged,388
+RET_001011,ORD_004313,2023-02-04,Product was stale,stale,378
+RET_001012,ORD_004315,2023-03-19,Delayed delivery,late_delivery,280
+RET_001013,ORD_004324,2023-04-27,Packaging leaked,packaging_issues,119
+RET_001014,ORD_004325,2024-01-02,Found mold on the product,stale,285
+RET_001015,ORD_004332,2023-01-09,Items looked old,quality_issues,266
+RET_001016,ORD_004334,2023-11-01,Inadequate packaging,packaging_issues,168
+RET_001017,ORD_004336,2024-02-11,Spoiled items received,stale,356
+RET_001018,ORD_004337,2023-02-26,Items were damaged,damaged,388
+RET_001019,ORD_004340,2023-07-15,Inadequate packaging,packaging_issues,416
+RET_001020,ORD_004341,2023-03-22,Product was stale,stale,432
+RET_001021,ORD_004344,2023-12-01,Quality below expectations,quality_issues,251
+RET_001022,ORD_004352,2024-02-05,Items were rotten,stale,343
+RET_001023,ORD_004358,2023-06-21,Packaging leaked,packaging_issues,164
+RET_001024,ORD_004364,2024-01-27,Received after expected date,late_delivery,398
+RET_001025,ORD_004375,2023-10-01,Packaging leaked,packaging_issues,363
+RET_001026,ORD_004380,2023-04-28,Items were damaged,damaged,274
+RET_001027,ORD_004386,2023-11-29,Incorrect item,wrong_item,162
+RET_001028,ORD_004396,2023-03-18,Wrong product delivered,wrong_item,259
+RET_001029,ORD_004398,2023-05-11,Product was stale,stale,197
+RET_001030,ORD_004399,2024-01-14,Different product than ordered,wrong_item,148
+RET_001031,ORD_004406,2023-09-14,Product was stale,stale,58
+RET_001032,ORD_004414,2023-03-18,Bruised fruits,damaged,228
+RET_001033,ORD_004416,2023-08-04,Product was stale,stale,189
+RET_001034,ORD_004420,2023-10-12,Found mold on the product,stale,183
+RET_001035,ORD_004421,2023-08-01,Items were rotten,stale,275
+RET_001036,ORD_004438,2023-09-13,Items looked old,quality_issues,114
+RET_001037,ORD_004441,2024-01-27,Found mold on the product,stale,376
+RET_001038,ORD_004443,2023-06-22,Poor quality,quality_issues,253
+RET_001039,ORD_004444,2023-03-09,Items were rotten,stale,333
+RET_001040,ORD_004452,2023-09-18,Product was stale,stale,455
+RET_001041,ORD_004454,2023-02-19,Packaging was damaged,damaged,144
+RET_001042,ORD_004460,2023-08-24,Not fresh,quality_issues,128
+RET_001043,ORD_004463,2023-02-20,Items were rotten,stale,427
+RET_001044,ORD_004468,2023-04-20,Packaging was damaged,damaged,257
+RET_001045,ORD_004475,2024-02-18,Wrong product delivered,wrong_item,235
+RET_001046,ORD_004477,2023-07-19,Bruised fruits,damaged,148
+RET_001047,ORD_004478,2023-07-17,Product was stale,stale,305
+RET_001048,ORD_004486,2023-04-13,Items were rotten,stale,382
+RET_001049,ORD_004491,2023-08-22,Wrong product delivered,wrong_item,205
+RET_001050,ORD_004499,2023-12-03,Spoiled items received,stale,328
+RET_001051,ORD_004504,2023-09-18,Different product than ordered,wrong_item,159
+RET_001052,ORD_004509,2023-04-07,Products were crushed,damaged,140
+RET_001053,ORD_004512,2023-03-26,Packaging leaked,packaging_issues,412
+RET_001054,ORD_004513,2023-04-26,Poor quality,quality_issues,147
+RET_001055,ORD_004516,2023-11-16,Received after expected date,late_delivery,283
+RET_001056,ORD_004517,2023-02-12,Items were rotten,stale,495
+RET_001057,ORD_004523,2024-02-06,Poor quality,quality_issues,335
+RET_001058,ORD_004526,2023-11-20,Items were damaged,damaged,314
+RET_001059,ORD_004527,2023-01-11,Packaging was damaged,damaged,188
+RET_001060,ORD_004529,2024-01-19,Products were crushed,damaged,136
+RET_001061,ORD_004530,2023-06-10,Incorrect item,wrong_item,214
+RET_001062,ORD_004531,2023-12-07,Delivery was late,late_delivery,391
+RET_001063,ORD_004533,2023-11-05,Items looked old,quality_issues,444
+RET_001064,ORD_004534,2023-06-05,Products were crushed,damaged,398
+RET_001065,ORD_004539,2024-02-27,Bruised fruits,damaged,462
+RET_001066,ORD_004546,2023-10-10,Poor quality,quality_issues,239
+RET_001067,ORD_004547,2023-12-29,Spoiled items received,stale,380
+RET_001068,ORD_004548,2023-09-16,Found mold on the product,stale,427
+RET_001069,ORD_004550,2023-05-25,Product was stale,stale,61
+RET_001070,ORD_004554,2023-02-15,Spoiled items received,stale,230
+RET_001071,ORD_004555,2023-04-06,Product was stale,stale,223
+RET_001072,ORD_004560,2024-01-29,Product was stale,stale,488
+RET_001073,ORD_004564,2023-05-08,Spoiled items received,stale,264
+RET_001074,ORD_004567,2023-06-13,Product was stale,stale,351
+RET_001075,ORD_004576,2024-01-27,Delivery was late,late_delivery,339
+RET_001076,ORD_004583,2023-03-19,Products were crushed,damaged,347
+RET_001077,ORD_004584,2023-06-23,Found mold on the product,stale,268
+RET_001078,ORD_004585,2023-11-14,Not fresh,quality_issues,160
+RET_001079,ORD_004586,2024-02-01,Items were rotten,stale,438
+RET_001080,ORD_004595,2023-03-21,Inadequate packaging,packaging_issues,230
+RET_001081,ORD_004598,2023-11-07,Items looked old,quality_issues,181
+RET_001082,ORD_004601,2023-09-08,Spoiled items received,stale,462
+RET_001083,ORD_004602,2023-02-27,Products were crushed,damaged,236
+RET_001084,ORD_004603,2023-08-21,Wrong product delivered,wrong_item,239
+RET_001085,ORD_004608,2023-05-07,Poor packaging,packaging_issues,473
+RET_001086,ORD_004609,2024-02-21,Packaging was damaged,damaged,188
+RET_001087,ORD_004624,2024-02-05,Items were damaged,damaged,200
+RET_001088,ORD_004638,2023-03-27,Items were rotten,stale,284
+RET_001089,ORD_004650,2023-10-25,Delayed delivery,late_delivery,372
+RET_001090,ORD_004653,2023-09-19,Found mold on the product,stale,87
+RET_001091,ORD_004654,2023-06-23,Packaging leaked,packaging_issues,311
+RET_001092,ORD_004656,2023-10-03,Items were damaged,damaged,302
+RET_001093,ORD_004659,2023-10-26,Packaging was damaged,damaged,141
+RET_001094,ORD_004664,2024-01-22,Items were damaged,damaged,200
+RET_001095,ORD_004672,2023-10-20,Items were rotten,stale,200
+RET_001096,ORD_004673,2023-09-04,Items were rotten,stale,256
+RET_001097,ORD_004674,2023-08-31,Spoiled items received,stale,487
+RET_001098,ORD_004682,2023-09-27,Found mold on the product,stale,163
+RET_001099,ORD_004690,2024-02-02,Items looked old,quality_issues,311
+RET_001100,ORD_004705,2023-03-17,Found mold on the product,stale,470
+RET_001101,ORD_004711,2023-02-16,Spoiled items received,stale,225
+RET_001102,ORD_004713,2023-06-22,Delivery was late,late_delivery,371
+RET_001103,ORD_004718,2023-06-10,Different product than ordered,wrong_item,199
+RET_001104,ORD_004719,2023-06-05,Poor packaging,packaging_issues,266
+RET_001105,ORD_004720,2023-07-08,Received after expected date,late_delivery,236
+RET_001106,ORD_004722,2023-03-08,Product was stale,stale,313
+RET_001107,ORD_004725,2023-12-26,Items were rotten,stale,98
+RET_001108,ORD_004727,2023-04-30,Poor quality,quality_issues,376
+RET_001109,ORD_004738,2023-08-09,Poor quality,quality_issues,452
+RET_001110,ORD_004747,2023-06-19,Items were rotten,stale,442
+RET_001111,ORD_004755,2023-04-17,Incorrect item,wrong_item,364
+RET_001112,ORD_004761,2023-07-28,Product was stale,stale,285
+RET_001113,ORD_004776,2023-03-28,Spoiled items received,stale,397
+RET_001114,ORD_004778,2023-08-15,Packaging was damaged,damaged,133
+RET_001115,ORD_004781,2023-11-02,Packaging was damaged,damaged,83
+RET_001116,ORD_004784,2023-07-02,Products were crushed,damaged,168
+RET_001117,ORD_004787,2023-04-17,Found mold on the product,stale,381
+RET_001118,ORD_004788,2023-06-30,Incorrect item,wrong_item,238
+RET_001119,ORD_004789,2024-02-22,Items were rotten,stale,110
+RET_001120,ORD_004790,2023-08-30,Items were rotten,stale,99
+RET_001121,ORD_004803,2023-09-12,Wrong product delivered,wrong_item,56
+RET_001122,ORD_004817,2024-02-04,Received after expected date,late_delivery,438
+RET_001123,ORD_004820,2023-04-24,Incorrect item,wrong_item,140
+RET_001124,ORD_004823,2023-03-13,Wrong product delivered,wrong_item,99
+RET_001125,ORD_004825,2023-04-03,Poor quality,quality_issues,476
+RET_001126,ORD_004827,2023-05-08,Packaging was damaged,damaged,74
+RET_001127,ORD_004833,2023-04-20,Items were rotten,stale,388
+RET_001128,ORD_004838,2023-06-02,Items were damaged,damaged,98
+RET_001129,ORD_004841,2023-08-29,Found mold on the product,stale,150
+RET_001130,ORD_004843,2024-02-08,Items were rotten,stale,246
+RET_001131,ORD_004846,2023-07-14,Poor quality,quality_issues,268
+RET_001132,ORD_004849,2023-11-14,Packaging was damaged,damaged,276
+RET_001133,ORD_004850,2023-01-27,Product was stale,stale,135
+RET_001134,ORD_004851,2023-04-02,Spoiled items received,stale,265
+RET_001135,ORD_004860,2024-01-31,Items looked old,quality_issues,222
+RET_001136,ORD_004868,2023-08-06,Items were rotten,stale,134
+RET_001137,ORD_004874,2023-08-12,Wrong product delivered,wrong_item,161
+RET_001138,ORD_004880,2023-12-02,Products were crushed,damaged,309
+RET_001139,ORD_004882,2024-02-17,Bruised fruits,damaged,271
+RET_001140,ORD_004883,2023-02-09,Bruised fruits,damaged,90
+RET_001141,ORD_004884,2023-05-20,Different product than ordered,wrong_item,431
+RET_001142,ORD_004885,2023-01-11,Product was stale,stale,385
+RET_001143,ORD_004887,2023-10-20,Items looked old,quality_issues,464
+RET_001144,ORD_004889,2023-07-10,Bruised fruits,damaged,175
+RET_001145,ORD_004892,2023-01-08,Spoiled items received,stale,362
+RET_001146,ORD_004895,2024-03-06,Incorrect item,wrong_item,100
+RET_001147,ORD_004899,2023-04-20,Items looked old,quality_issues,409
+RET_001148,ORD_004901,2024-01-28,Items looked old,quality_issues,199
+RET_001149,ORD_004902,2023-02-14,Incorrect item,wrong_item,449
+RET_001150,ORD_004905,2023-12-23,Incorrect item,wrong_item,69
+RET_001151,ORD_004909,2023-11-03,Items looked old,quality_issues,362
+RET_001152,ORD_004914,2023-07-09,Different product than ordered,wrong_item,391
+RET_001153,ORD_004916,2023-10-05,Items looked old,quality_issues,473
+RET_001154,ORD_004917,2023-03-09,Not fresh,quality_issues,200
+RET_001155,ORD_004918,2023-06-04,Bruised fruits,damaged,438
+RET_001156,ORD_004920,2023-01-16,Not fresh,quality_issues,466
+RET_001157,ORD_004922,2024-01-16,Product was stale,stale,148
+RET_001158,ORD_004927,2023-09-08,Wrong product delivered,wrong_item,264
+RET_001159,ORD_004945,2023-09-27,Wrong product delivered,wrong_item,441
+RET_001160,ORD_004952,2023-06-01,Items were rotten,stale,498
+RET_001161,ORD_004958,2024-03-03,Different product than ordered,wrong_item,207
+RET_001162,ORD_004959,2023-02-12,Found mold on the product,stale,408
+RET_001163,ORD_004961,2023-10-12,Items were rotten,stale,411
+RET_001164,ORD_004969,2024-02-15,Quality below expectations,quality_issues,188
+RET_001165,ORD_004980,2023-12-22,Spoiled items received,stale,232
+RET_001166,ORD_004985,2023-10-27,Incorrect item,wrong_item,142
+RET_001167,ORD_004990,2023-11-29,Incorrect item,wrong_item,85
+RET_001168,ORD_004992,2024-02-21,Products were crushed,damaged,478
+RET_001169,ORD_004993,2024-01-24,Items were rotten,stale,301
+RET_001170,ORD_004994,2023-08-26,Product was stale,stale,307
+RET_001171,ORD_004999,2023-11-17,Items were damaged,damaged,197
+RET_001172,ORD_005000,2023-06-16,Delivery was late,late_delivery,51

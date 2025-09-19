@@ -1,0 +1,9 @@
+product_id,product_name,category,expected_shelf_life_days
+APPLE_001,Red Apples,fruit,7
+BANANA_001,Bananas,fruit,5
+AVOCADO_001,Avocados,fruit,4
+SPINACH_001,Fresh Spinach,vegetable,3
+TOMATO_001,Tomatoes,vegetable,6
+LETTUCE_001,Lettuce,vegetable,4
+BERRIES_001,Mixed Berries,fruit,3
+CARROT_001,Carrots,vegetable,10
