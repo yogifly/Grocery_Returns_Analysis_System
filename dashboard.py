@@ -81,7 +81,7 @@ def main():
     """Main dashboard function"""
     
     # Header
-    st.markdown('<h1 class="main-header">🥬 Grocery Returns Analysis /h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-header">🥬 Grocery Returns Analysis </h1>', unsafe_allow_html=True)
     
     # Load data
     with st.spinner("Loading data..."):

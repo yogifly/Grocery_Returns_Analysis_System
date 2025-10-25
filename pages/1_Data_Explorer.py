@@ -68,35 +68,6 @@ try:
     if selected_columns:
         st.dataframe(df[selected_columns].head(max_rows), use_container_width=True)
     
-    # Data quality checks
-    st.header("🔍 Data Quality")
-    
-    col1, col2 = st.columns(2)
-    
-    with col1:
-        st.subheader("Missing Values")
-        missing_data = df.isnull().sum()
-        missing_data = missing_data[missing_data > 0]
-        
-        if not missing_data.empty:
-            fig = px.bar(
-                x=missing_data.values,
-                y=missing_data.index,
-                orientation='h',
-                title="Missing Values by Column"
-            )
-            st.plotly_chart(fig, use_container_width=True)
-        else:
-            st.success("No missing values found!")
-    
-    with col2:
-        st.subheader("Data Types")
-        dtype_info = pd.DataFrame({
-            'Column': df.dtypes.index,
-            'Data Type': df.dtypes.values.astype(str)
-        })
-        st.dataframe(dtype_info, use_container_width=True)
-    
     # Statistical summary
     st.header("📈 Statistical Summary")
     

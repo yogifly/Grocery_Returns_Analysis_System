@@ -2,7 +2,7 @@ import sys
 import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from data.sample_data_generator import generate_sample_data
+from data.data import generate_sample_data
 
 # Generate sample data
 orders_df, returns_df, products_df = generate_sample_data()
